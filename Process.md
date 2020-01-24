@@ -1,4 +1,4 @@
-1. Understand Using Python with GitHub Actions   
+<strong> 1.Understand Using Python with GitHub Actions </strong>   
 pre-requisites: YAML, syntax for Github actions.    
 Python workflow template: name, on, jobs(process system, python version, run & install)     
 when I went to this step, received an email from GitHub, Run failed for master (fc752b0).    
@@ -6,8 +6,8 @@ when I went to this step, received an email from GitHub, Run failed for master (
 Specify a Python version.
 
 
-2. Understand pytest: helps you write better programs    
+<strong> 2.Understand pytest: helps you write better programs </strong>    
 
 
-3. Work on assignment 1    
+<strong> 3.Work on assignment 1 </strong>      
 
