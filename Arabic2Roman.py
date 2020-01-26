@@ -8,6 +8,6 @@ def Arab2Roman(num):
     ans = M[num/1000] + C[(num%1000)/100] + X[(num%100)/10] + I[num%10]
     return ans
 
-if __name__ == '__main__':
-    x = 1000
-    print(Arab2Roman(x))
+#if __name__ == '__main__':
+#    x = 1000
+#    print(Arab2Roman(x))
