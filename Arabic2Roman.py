@@ -1,6 +1,6 @@
 print("Arabic 2 Roman program starts. \n")
 
-def 2Roman(num):
+def toRoman(num):
     M = ["", "M", "MM", "MMM"];
     C = ["", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"]
     X = ["", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"]
@@ -14,4 +14,4 @@ def 2Roman(num):
 
 #if __name__ == '__main__':
 #    x = 1000
-#    print(2Roman(x))
+#    print(toRoman(x))
