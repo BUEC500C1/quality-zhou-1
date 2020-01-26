@@ -3,7 +3,7 @@
 import pytest
 import ArabicToRoman
 
-def testConverter():
+def test_Converter():
   arabic = [1, 10, 101, 1999, -10]
   roman = ["I", "X", "CI", "MCMXCIX", "-1"]
   
@@ -12,4 +12,4 @@ def testConverter():
 
     
 # if __name__ == "__main__":
-# 	testConverter() 
+# 	test_Converter() 
