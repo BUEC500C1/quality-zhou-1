@@ -8,7 +8,7 @@ def testConverter():
   roman = ["I", "X", "CI", "MCMXCIX", "-1"]
   
   for a,r in zip(arabic,roman):
-	  assert Arabic2Roman.2Roman(a) == r
+	  assert Arabic2Roman.toRoman(a) == r
 
     
 # if __name__ == "__main__":
