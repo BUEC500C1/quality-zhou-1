@@ -1,7 +1,6 @@
-# content of test_sample.py
-def inc(x):
-    return x + 1
+# test for roman 2 Intgeer converter
+
+import pytest
+import Arabic2Roman
 
 
-def test_answer():
-    assert inc(3) == 5
