@@ -14,4 +14,4 @@ def 2Roman(num):
 
 #if __name__ == '__main__':
 #    x = 1000
-#    print(Arab2Roman(x))
+#    print(2Roman(x))
