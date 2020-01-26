@@ -1,4 +1,4 @@
-print("Arabic 2 Roman program starts. \n")
+print("Arabic to Roman program starts. \n")
 
 def toRoman(num):
     M = ["", "M", "MM", "MMM"];
