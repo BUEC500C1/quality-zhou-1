@@ -1,6 +1,6 @@
 print("Arabic 2 Roman program starts. \n")
 
-def Arab2Roman(num):
+def 2Roman(num):
     M = ["", "M", "MM", "MMM"];
     C = ["", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"]
     X = ["", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"]
