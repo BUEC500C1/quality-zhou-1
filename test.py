@@ -4,8 +4,8 @@ import pytest
 import Arabic2Roman
 
 def testConverter():
-  arabic = [1, 10, 101, 1999]
-  roman = ["I", "X", "CI", "MCMXCIX"]
+  arabic = [1, 10, 101, 1999, -10]
+  roman = ["I", "X", "CI", "MCMXCIX", "-1"]
   
   for a,r in zip(arabic,roman):
 	  assert Arabic2Roman.2Roman(a) == r
